@@ -1,0 +1,22 @@
+{
+    "jobs": [
+        {
+            "id": 1,
+            "tittle": "said web developer ",
+            "details": "lorem",
+            "age": 20
+        },
+        {
+            "id": 2,
+            "tittle": "said ux/ui designer ",
+            "details": "lorem",
+            "age": 21
+        },
+        {
+            "id": 3,
+            "tittle": "said vue developer ",
+            "details": "lorem",
+            "age": 22
+        }
+    ]
+}
